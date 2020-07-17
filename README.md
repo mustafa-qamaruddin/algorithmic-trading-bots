@@ -1,5 +1,9 @@
 # Machine Learning for Algorithmic Trading Bots using Python, Packt Pub
+
+<p>
+<img alt="Machine Learning for Algorithmic Trading Bots with Python" src="Images/5.png" width="250" align="right" />
 Course Materials, Jupyter Notebooks, and Python Scripts for MooCs, Machine Learning for Algorithmic Trading Bots 2019, https://www.packtpub.com/application-development/machine-learning-algorithmic-trading-bots-python-video 
+</p>
 
 # Update July 2020
 
