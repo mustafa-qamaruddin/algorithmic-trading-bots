@@ -7,6 +7,9 @@ Course Materials, Jupyter Notebooks, and Python Scripts for MooCs, Machine Learn
 
 Due to a breaking update in Zipline library that requires a work around, I have compiled the source code for Eclipse Projects on this Virtual Machine.
 
+```
+Virtual Machine Password: 1234567890
+```
 
 - Install Virtual Box
 - Download Virtual Machine
